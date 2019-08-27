@@ -14,3 +14,11 @@ C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\obj\Debug\CircleProgressBarUI01.exe
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\obj\Debug\CircleProgressBarUI01.xml
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\obj\Debug\CircleProgressBarUI01.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\bin\Debug\CircleProgressBarUI01.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\bin\Debug\CircleProgressBarUI01.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\bin\Debug\CircleProgressBarUI01.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\obj\Debug\CircleProgressBarUI01.vbprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\obj\Debug\CircleProgressBarUI01.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\obj\Debug\CircleProgressBarUI01.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-CircleProgressBar-UI1\CircleProgressBarUI01\CircleProgressBarUI01\obj\Debug\CircleProgressBarUI01.vbproj.GenerateResource.Cache
